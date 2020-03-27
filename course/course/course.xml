@@ -1,0 +1,5 @@
+<course display_name="Entrance Exam" entrance_exam_enabled="true" entrance_exam_id="block-v1:examX+EX111+2015_E1+type@chapter+block@752d34780e05443e9e422312f91d13a5" entrance_exam_minimum_score_pct="0.7" language="en" start="&quot;2015-01-01T00:00:00+00:00&quot;">
+  <chapter url_name="752d34780e05443e9e422312f91d13a5"/>
+  <chapter url_name="506bf044cb30441d97574fc16355750c"/>
+  <wiki slug="examX.EX111.2015_E1"/>
+</course>
