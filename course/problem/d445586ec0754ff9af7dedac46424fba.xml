@@ -1,0 +1,25 @@
+<problem display_name="What is Tahoe?" markdown="&gt;&gt;Which of the phrases below most accurately describes Tahoe?&lt;&lt;&#10;&#10;(!) A management console for Open edX that allows customization of the site {{Close enough that you can have partial credit for this if you'd like. But it doesn't tell the whole story.}}&#10;(x) An implementation of Open edX that includes a management console and a reporting tool {{That's right! Tahoe is the whole system, Open edX, reporting, and management console combined.}}&#10;( ) An editing tool for creating Open edX courses {{That's Studio! Try again.}}&#10;( ) An ecommerce portal for Open edX {{Nope, while ecommerce is something we will be implementing as part of the management console, it'll just be one part of the larger whole. Try again!}}&#10;( ) A lake in the Sierra Nevada Mountains {{Aren't you clever. But technically the name of the lake is 'Lake Tahoe', so no points here.}}&#10;(@) All of the above&#10;&#10;[explanation]The management console is sometimes referred to as Tahoe, but actually Tahoe is the full system - the LMS, Studio, Figures, and the management console. Tahoe isn't something that can just be added to another Open edX site! Only Appsembler customers have access to Tahoe and its management console, as it was developed here and we have yet to take it into the world of open source.[explanation]&#10;&#10;">
+<multiplechoiceresponse>
+  <label>Which of the phrases below most accurately describes Tahoe?</label>
+<choicegroup type="MultipleChoice" shuffle="true">
+    <choice correct="false">A management console for Open edX that allows customization of the site <choicehint>Close enough that you can have partial credit for this if you'd like. But it doesn't tell the whole story.</choicehint>
+</choice>
+    <choice correct="true">An implementation of Open edX that includes a management console and a reporting tool <choicehint>That's right! Tahoe is the whole system, Open edX, reporting, and management console combined.</choicehint>
+</choice>
+    <choice correct="false">An editing tool for creating Open edX courses <choicehint>That's Studio! Try again.</choicehint>
+</choice>
+    <choice correct="false">An ecommerce portal for Open edX <choicehint>Nope, while ecommerce is something we will be implementing as part of the management console, it'll just be one part of the larger whole. Try again!</choicehint>
+</choice>
+    <choice correct="false">A lake in the Sierra Nevada Mountains <choicehint>Aren't you clever. But technically the name of the lake is 'Lake Tahoe', so no points here.</choicehint>
+</choice>
+    <choice correct="false" fixed="true">All of the above</choice>
+  </choicegroup>
+<solution>
+<div class="detailed-solution">
+<p>Explanation</p>
+
+<p>The management console is sometimes referred to as Tahoe, but actually Tahoe is the full system - the LMS, Studio, Figures, and the management console. Tahoe isn't something that can just be added to another Open edX site! Only Appsembler customers have access to Tahoe and its management console, as it was developed here and we have yet to take it into the world of open source.</p>
+</div>
+</solution>
+</multiplechoiceresponse>
+</problem>

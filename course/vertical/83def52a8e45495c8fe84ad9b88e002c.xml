@@ -1,0 +1,42 @@
+<vertical display_name="Open Response Assessments (ORA)">
+  <html url_name="36d30091a9c4403a97512d81d09bd69e"/>
+  <openassessment url_name="e43e8dbb612f45949f763509fecc5fc1" submission_start="2001-01-01T00:00:00+00:00" submission_due="2029-01-01T00:00:00+00:00" leaderboard_show="1" text_response="required" file_upload_response="optional" file_upload_type="pdf-and-image" allow_latex="False" prompts_type="html">
+    <title>Open Response Assessment</title>
+    <assessments>
+      <assessment name="staff-assessment" required="True"/>
+    </assessments>
+    <prompts>
+      <prompt>
+        <description>&lt;p&gt;Which XBlock from the list&amp;nbsp;on the previous page do you think will be the most useful to you, and why?&lt;/p&gt;
+&lt;p&gt;Don't forget to refresh once you're done to give yourself a grade!&lt;/p&gt;</description>
+      </prompt>
+    </prompts>
+    <rubric>
+      <criterion feedback="optional">
+        <name>0</name>
+        <label>Quality of Answer</label>
+        <prompt>How good you think the answer was.</prompt>
+        <option points="0">
+          <name>0</name>
+          <label>Poor</label>
+          <explanation>You just mashed a bunch of keys so that you could move on. It's OK, we know you're busy. But you get no points.</explanation>
+        </option>
+        <option points="1">
+          <name>1</name>
+          <label>Fair</label>
+          <explanation>Not bad. Could've been better though.</explanation>
+        </option>
+        <option points="2">
+          <name>2</name>
+          <label>Excellent</label>
+          <explanation>The best answer you could've given. Great work... unless you're just giving yourself this grade for your own ego. But who would do that?</explanation>
+        </option>
+      </criterion>
+      <feedbackprompt>(Optional) What aspects of this response stood out to you? What did it do well? How could it be improved?
+</feedbackprompt>
+      <feedback_default_text>I think that this response...
+</feedback_default_text>
+    </rubric>
+  </openassessment>
+  <html url_name="b8ef6de5a2fa442ca091c94c25e276bb"/>
+</vertical>

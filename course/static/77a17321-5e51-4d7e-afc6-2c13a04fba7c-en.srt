@@ -1,0 +1,168 @@
+0
+00:00:01,360 --> 00:00:03,580
+When it comes to teaching and learning new software,
+
+1
+00:00:03,820 --> 00:00:06,280
+nothing compares to real world, hands-on training,
+
+2
+00:00:07,180 --> 00:00:11,000
+but it can be frustrating, time consuming and expensive to get
+
+3
+00:00:11,000 --> 00:00:12,970
+everyone set up with their own learning environments.
+
+4
+00:00:14,790 --> 00:00:18,790
+Meet Virtual Labs by Appsembler, the easiest way to deliver hands-on
+
+5
+00:00:18,790 --> 00:00:20,590
+software training to anyone, anywhere.
+
+6
+00:00:20,950 --> 00:00:23,590
+Skip the IT headaches, save precious training time,
+
+7
+00:00:23,591 --> 00:00:27,200
+and instantly provide your learners with labs that they can complete
+
+8
+00:00:27,200 --> 00:00:29,500
+in their web browser, in their own time.
+
+9
+00:00:30,000 --> 00:00:33,690
+Thousands of different software packages can run in Virtual Labs,
+
+10
+00:00:33,691 --> 00:00:36,820
+and these are just some of the ones that we've worked with in the past.
+
+11
+00:00:36,820 --> 00:00:39,220
+IDEs, Data analysis software, command lines,
+
+12
+00:00:39,221 --> 00:00:43,530
+databases,even blogging software, but how does it work?
+
+13
+00:00:43,531 --> 00:00:46,531
+Here you can see the Virtual Labs dashboard with a
+
+14
+00:00:46,531 --> 00:00:49,420
+Docker image of our software set up and ready to go.
+
+15
+00:00:50,440 --> 00:00:55,440
+The first thing you'll do with your chosen image is to make an admin container.
+
+16
+00:00:55,460 --> 00:01:00,031
+This will give your own instance of your software to modify for your learners.
+
+17
+00:01:00,730 --> 00:01:05,730
+So you'll open up this admin container, which has your software in its default state.
+
+18
+00:01:05,730 --> 00:01:09,011
+In this case, the example is a simple development environment, complete with command line and code editor,
+
+19
+00:01:09,011 --> 00:01:11,920
+but this could be almost anything!
+
+20
+00:01:11,920 --> 00:01:14,920
+At this point you work with your software to have everything you'll need
+
+21
+00:01:14,920 --> 00:01:17,320
+for your learners to take part in whatever activity you're teaching.
+
+22
+00:01:18,520 --> 00:01:22,150
+What happens next is entirely dependent on whatever software you're using.
+
+23
+00:01:22,570 --> 00:01:25,150
+In this example, I'm just adding a simple exercise.
+
+24
+00:01:26,620 --> 00:01:29,200
+Once you're finished, you head back into Virtual Labs and save
+
+25
+00:01:29,201 --> 00:01:33,430
+it back as a new image. Now that your new image is ready,
+
+26
+00:01:33,730 --> 00:01:36,750
+you can create a project for your learners to use in Open edX,
+
+27
+00:01:36,760 --> 00:01:41,201
+Appsembler's LMS.
+
+28
+00:01:41,201 --> 00:01:46,120
+This ID and the project name are actually all you need, so let's head over to Open edX Studio.
+
+29
+00:01:46,120 --> 00:01:49,840
+Once you're in Open edX, you'll simply add in the details of your
+
+30
+00:01:49,841 --> 00:01:52,841
+lab into the Container Launcher XBlock Appsembler has built so that your
+
+31
+00:01:52,841 --> 00:01:55,270
+learners can spin it up directly from within the courseware.
+
+32
+00:01:58,060 --> 00:01:59,600
+Once you're finished with the rest of this page,
+
+33
+00:01:59,940 --> 00:02:02,160
+you just publish the content for your learners and you're good to go.
+
+34
+00:02:04,260 --> 00:02:06,360
+Let's go and take a look at it from the learner's perspective.
+
+35
+00:02:07,230 --> 00:02:11,500
+Here's what they see: after they click the button,
+
+36
+00:02:11,700 --> 00:02:16,700
+the lab is available and learners can start working on their own container from its initial state.
+
+37
+00:02:16,700 --> 00:02:18,721
+Everyone who clicks the button will get
+
+38
+00:02:18,721 --> 00:02:23,241
+their own individualized lab environment preloaded with the content we prepared
+
+39
+00:02:23,241 --> 00:02:26,340
+for them earlier and ready for them to start learning by doing,
+
+40
+00:02:26,341 --> 00:02:29,341
+and that's all you need to do. With Appsembler's Virtual Labs you can
+
+41
+00:02:29,341 --> 00:02:33,510
+skip the hours of setup and focus on what matters most - your learners.
+
