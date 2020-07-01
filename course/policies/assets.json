@@ -1,1 +1,1226 @@
-{}
+{
+    "Appsembler-logo-1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Appsembler-logo-1.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Appsembler-logo-1.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Appsembler-logo-1.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Appsembler-logo-1-png.jpg", 
+            null
+        ]
+    }, 
+    "Appsembler_Crew__1_.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Appsembler_Crew__1_.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Appsembler Crew (1).png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Appsembler_Crew__1_.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Appsembler_Crew__1_-png.jpg", 
+            null
+        ]
+    }, 
+    "CAG.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "CAG.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CAG.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@CAG.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "CAG-png.jpg", 
+            null
+        ]
+    }, 
+    "CMS.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "CMS.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "CMS.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@CMS.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "CMS-png.jpg", 
+            null
+        ]
+    }, 
+    "Figures.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Figures.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Figures.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Figures.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Figures-png.jpg", 
+            null
+        ]
+    }, 
+    "Itential_logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Itential_logo.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Itential_logo.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Itential_logo.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Itential_logo-png.jpg", 
+            null
+        ]
+    }, 
+    "LMS.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "LMS.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "LMS.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@LMS.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "LMS-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-03-04_at_4.05.49_PM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-03-04_at_4.05.49_PM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-03-04 at 4.05.49 PM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-03-04_at_4.05.49_PM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-03-04_at_4.05.49_PM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-03-05_at_3.00.48_PM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-03-05_at_3.00.48_PM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-03-05 at 3.00.48 PM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-03-05_at_3.00.48_PM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-03-05_at_3.00.48_PM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-03-05_at_3.01.49_PM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-03-05_at_3.01.49_PM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-03-05 at 3.01.49 PM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-03-05_at_3.01.49_PM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-03-05_at_3.01.49_PM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-03-05_at_9.45.48_AM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-03-05_at_9.45.48_AM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-03-05 at 9.45.48 AM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-03-05_at_9.45.48_AM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-03-05_at_9.45.48_AM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-05-20_at_10.25.57_AM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-05-20_at_10.25.57_AM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-05-20 at 10.25.57 AM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-05-20_at_10.25.57_AM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-05-20_at_10.25.57_AM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-06-18_at_11.46.20_AM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-06-18_at_11.46.20_AM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-06-18 at 11.46.20 AM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-06-18_at_11.46.20_AM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-06-18_at_11.46.20_AM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-06-18_at_11.47.58_AM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-06-18_at_11.47.58_AM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-06-18 at 11.47.58 AM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-06-18_at_11.47.58_AM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-06-18_at_11.47.58_AM-png.jpg", 
+            null
+        ]
+    }, 
+    "Screen_Shot_2020-06-18_at_11.50.15_AM.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Screen_Shot_2020-06-18_at_11.50.15_AM.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Screen Shot 2020-06-18 at 11.50.15 AM.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-06-18_at_11.50.15_AM.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Screen_Shot_2020-06-18_at_11.50.15_AM-png.jpg", 
+            null
+        ]
+    }, 
+    "Tahoe-Brand-Your-Site-1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "Tahoe-Brand-Your-Site-1.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Tahoe-Brand-Your-Site-1.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Tahoe-Brand-Your-Site-1.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "Tahoe-Brand-Your-Site-1-png.jpg", 
+            null
+        ]
+    }, 
+    "app-avl-logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "app-avl-logo.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "app-avl-logo.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@app-avl-logo.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "app-avl-logo-png.jpg", 
+            null
+        ]
+    }, 
+    "app-logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "app-logo.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "app-logo.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@app-logo.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "app-logo-png.jpg", 
+            null
+        ]
+    }, 
+    "app-square-logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "app-square-logo.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "app-square-logo.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@app-square-logo.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "app-square-logo-png.jpg", 
+            null
+        ]
+    }, 
+    "app_tahoe_logo.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "app_tahoe_logo.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "app_tahoe_logo.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@app_tahoe_logo.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "app_tahoe_logo-png.jpg", 
+            null
+        ]
+    }, 
+    "appsembler-course-intro-graphic.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "appsembler-course-intro-graphic.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "appsembler-course-intro-graphic.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@appsembler-course-intro-graphic.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "appsembler-course-intro-graphic-png.jpg", 
+            null
+        ]
+    }, 
+    "appsembler-default-post-1.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "appsembler-default-post-1.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "appsembler-default-post-1.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@appsembler-default-post-1.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "appsembler-default-post-1.jpg", 
+            null
+        ]
+    }, 
+    "biconnector1.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "biconnector1.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "biconnector1.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@biconnector1.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "biconnector1-png.jpg", 
+            null
+        ]
+    }, 
+    "customer-love.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "customer-love.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "customer-love.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@customer-love.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "customer-love.jpg", 
+            null
+        ]
+    }, 
+    "docker.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "docker.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "docker.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@docker.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "docker-png.jpg", 
+            null
+        ]
+    }, 
+    "drag-n-drop_image.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "drag-n-drop_image.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "drag-n-drop image.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@drag-n-drop_image.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "drag-n-drop_image.jpg", 
+            null
+        ]
+    }, 
+    "figures-gif-02.gif": {
+        "contentType": "image/gif", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "figures-gif-02.gif", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "figures-gif-02.gif", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@figures-gif-02.gif", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "figures-gif-02-gif.jpg", 
+            null
+        ]
+    }, 
+    "figures.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "figures.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "figures.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@figures.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "figures-png.jpg", 
+            null
+        ]
+    }, 
+    "hands-on-learning.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "hands-on-learning.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "hands-on-learning.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@hands-on-learning.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "hands-on-learning.jpg", 
+            null
+        ]
+    }, 
+    "highway.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "highway.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "highway.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@highway.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "highway.jpg", 
+            null
+        ]
+    }, 
+    "highway1.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "highway1.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "highway1.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@highway1.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "highway1.jpg", 
+            null
+        ]
+    }, 
+    "honeycomb.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "honeycomb.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "honeycomb.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@honeycomb.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "honeycomb-png.jpg", 
+            null
+        ]
+    }, 
+    "idea_pencil.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "idea_pencil.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "idea pencil.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@idea_pencil.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "idea_pencil-png.jpg", 
+            null
+        ]
+    }, 
+    "ingredients.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "ingredients.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ingredients.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@ingredients.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "ingredients-png.jpg", 
+            null
+        ]
+    }, 
+    "itential-banner.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "itential-banner.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "itential-banner.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@itential-banner.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "itential-banner-png.jpg", 
+            null
+        ]
+    }, 
+    "itential-quote.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "itential-quote.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "itential-quote.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@itential-quote.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "itential-quote-png.jpg", 
+            null
+        ]
+    }, 
+    "kb_screenshot.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "kb_screenshot.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "kb screenshot.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@kb_screenshot.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "kb_screenshot-png.jpg", 
+            null
+        ]
+    }, 
+    "learn_chef_site.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "learn_chef_site.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "learn chef site.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@learn_chef_site.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "learn_chef_site-png.jpg", 
+            null
+        ]
+    }, 
+    "openedx.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "openedx.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "openedx.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@openedx.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "openedx-png.jpg", 
+            null
+        ]
+    }, 
+    "prof_svcs.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "prof_svcs.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "prof svcs.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@prof_svcs.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "prof_svcs-png.jpg", 
+            null
+        ]
+    }, 
+    "redis-banner.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "redis-banner.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "redis-banner.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@redis-banner.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "redis-banner-png.jpg", 
+            null
+        ]
+    }, 
+    "social_logins.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "social_logins.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "social logins.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@social_logins.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "social_logins-png.jpg", 
+            null
+        ]
+    }, 
+    "software-dev.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "software-dev.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "software-dev.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@software-dev.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "software-dev.jpg", 
+            null
+        ]
+    }, 
+    "success-team.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "success-team.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "success-team.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@success-team.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "success-team-png.jpg", 
+            null
+        ]
+    }, 
+    "support.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "support.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "support.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@support.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "support-png.jpg", 
+            null
+        ]
+    }, 
+    "trinity.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "trinity.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "trinity.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@trinity.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "trinity-png.jpg", 
+            null
+        ]
+    }, 
+    "view_course_as_learner.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "view_course_as_learner.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "view course as learner.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@view_course_as_learner.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "view_course_as_learner-png.jpg", 
+            null
+        ]
+    }, 
+    "whatdrivesus.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "whatdrivesus.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "whatdrivesus.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@whatdrivesus.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "whatdrivesus-png.jpg", 
+            null
+        ]
+    }, 
+    "x-b.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "x-b.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "x-b.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@x-b.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "x-b-png.jpg", 
+            null
+        ]
+    }, 
+    "xblocks1.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "xblocks1.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "xblocks1.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@xblocks1.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "xblocks1.jpg", 
+            null
+        ]
+    }, 
+    "you-are-here.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "you-are-here.jpg", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "you-are-here.jpg", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@you-are-here.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "you-are-here.jpg", 
+            null
+        ]
+    }
+}

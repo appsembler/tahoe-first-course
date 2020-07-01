@@ -1,0 +1,22 @@
+<p id="FiguresURL">You can visit Figures for your own site by heading over to your LMS and adding /figures on the end of the URL, or by hitting the Figures button in the top right of your management console.</p>
+
+<script>
+var site = window.location.hostname;
+ if (site != "studio.tahoe.appsembler.com") {
+ 	document.getElementById("FiguresURL").innerHTML = 
+      "You can find Figures for your site over at <a href='https://" + site + "/figures'>" + 
+      site + "/figures </a>, or by hitting the Figures button in the top right of your management console."; 
+ }
+</script>
+
+<div class="flask-box">
+<p><span class="fa fa-flask" aria-hidden="true">&nbsp;</span><span class="sr">How it's made:</span> If you're super techy like many of our customers, you may be interested to know that this page has a sneaky inline script on it to populate that URL. Did we mention just how flexible your course materials can be yet? You can include scripts like these within your content to get really clever with your learners, but obviously do so at your own risk - it is very possible to do it wrong!</p>
+</div>
+<style type="text/css"><!--
+.flask-box{
+   background-color: #e3f5ff;
+   border-left: 4px solid #6dd8ff;
+   margin: 10px 5px;
+ 		padding: 15px;
+  }
+--></style>

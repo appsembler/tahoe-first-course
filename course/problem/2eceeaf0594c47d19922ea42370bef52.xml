@@ -1,0 +1,11 @@
+<problem display_name="True or False?" markdown="&gt;&gt;Instructors use Open edX (the LMS) to change the contents of their courses.&lt;&lt;&#10;&#10;( ) True {{selected: No, that happens in Studio!}}&#10;(x) False {{Correct! The LMS is where the learning happens.}}">
+<multiplechoiceresponse>
+  <label>Instructors use Open edX (the LMS) to change the contents of their courses.</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">True <choicehint>selected: No, that happens in Studio!</choicehint>
+</choice>
+    <choice correct="true">False <choicehint>Correct! The LMS is where the learning happens.</choicehint>
+</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+</problem>

@@ -1,0 +1,22 @@
+<problem display_name="What's in a Tahoe?" markdown="&gt;&gt;What does Appsembler Tahoe include? (Choose 5)&lt;&lt;&#10;&#10;[x] site implementation {{selected: Yes, we implement your site!}&#10;[x] site maintenance {{selected: Yes, we maintain your site!}}&#10;[ ] batteries {{selected: Batteries not included}}&#10;[x] great support {{selected: We pride ourselves on providing great support.}}&#10;[x] ongoing upgrades {{selected: We handle the upgrades, no worries there!}}&#10;[ ] lunch delivery {{selected: You can't eat a Tahoe.}}&#10;&#10;&#10;">
+<choiceresponse>
+  <label>What does Appsembler Tahoe include? (Choose 5)</label>
+<checkboxgroup>
+    <choice correct="true">site implementation
+      <choicehint selected="true">Yes, we implement your site!</choicehint>
+</choice>
+    <choice correct="false">batteries
+      <choicehint selected="true">Batteries not included</choicehint>
+</choice>
+    <choice correct="true">great support
+      <choicehint selected="true">We pride ourselves on providing great support.</choicehint>
+</choice>
+    <choice correct="true">ongoing upgrades
+      <choicehint selected="true">We handle the upgrades, no worries there!</choicehint>
+</choice>
+    <choice correct="false">lunch delivery
+      <choicehint selected="true">You can't eat a Tahoe.</choicehint>
+</choice>
+  </checkboxgroup>
+</choiceresponse>
+</problem>

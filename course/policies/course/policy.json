@@ -1,40 +1,73 @@
 {
     "course/course": {
+        "advanced_modules": [
+            "done", 
+            "google-document", 
+            "google-calendar", 
+            "lti_consumer", 
+            "poll", 
+            "survey", 
+            "vectordraw", 
+            "freetextresponse", 
+            "edx_sga", 
+            "launchcontainer", 
+            "pdf", 
+            "ubcpi", 
+            "problem-builder"
+        ], 
+        "cert_html_view_enabled": true, 
+        "course_image": "appsembler-default-post-1.jpg", 
         "discussion_topics": {
             "General": {
                 "id": "course"
             }
         }, 
-        "display_name": "Entrance Exam", 
-        "entrance_exam_enabled": true, 
-        "entrance_exam_id": "block-v1:examX+EX111+2015_E1+type@chapter+block@752d34780e05443e9e422312f91d13a5", 
-        "entrance_exam_minimum_score_pct": 0.7, 
+        "display_name": "Appsembler Sample Course", 
+        "display_organization": "Appsembler", 
+        "instructor_info": {
+            "instructors": []
+        }, 
         "language": "en", 
-        "start": "2015-01-01T00:00:00Z", 
+        "learning_info": [], 
+        "start": "2020-04-01T00:00:00Z", 
         "tabs": [
             {
-                "name": "Courseware", 
-                "type": "courseware"
-            }, 
-            {
-                "name": "Course Info", 
+                "course_staff_only": false, 
+                "name": "Home", 
                 "type": "course_info"
             }, 
             {
+                "course_staff_only": false, 
+                "name": "Course", 
+                "type": "courseware"
+            }, 
+            {
+                "course_staff_only": false, 
                 "name": "Textbooks", 
                 "type": "textbooks"
             }, 
             {
+                "course_staff_only": false, 
+                "is_hidden": true, 
                 "name": "Discussion", 
                 "type": "discussion"
             }, 
             {
+                "course_staff_only": false, 
+                "is_hidden": true, 
                 "name": "Wiki", 
                 "type": "wiki"
             }, 
             {
+                "course_staff_only": false, 
                 "name": "Progress", 
                 "type": "progress"
+            }, 
+            {
+                "course_staff_only": false, 
+                "name": "Custom course page", 
+                "type": "static_tab", 
+                "url_slug": "2607aadb2c784a0bbb124eefd7176602"
             }
         ]
     }

@@ -1,0 +1,48 @@
+0
+00:00:06,260 --> 00:00:10,940
+Welcome to Redis University. Let&#39;s start our journey together.
+
+1
+00:00:16,400 --> 00:00:24,080
+Welcome to this chapter we&#39;ll cover all the basic data types available in Redis.
+
+2
+00:00:32,040 --> 00:00:37,180
+Powered by open-edX, our online learning platform guides you through video
+
+3
+00:00:37,240 --> 00:00:41,440
+tutorials and quizzes tracking your progress.
+
+4
+00:00:45,860 --> 00:00:47,360
+Forums are there you need help.
+
+5
+00:00:48,540 --> 00:00:50,540
+Teaching assistants are ready and waiting.
+
+6
+00:00:52,560 --> 00:00:56,240
+The course is also available on a tablet and a mobile device.
+
+7
+00:00:56,600 --> 00:00:57,600
+Ok now on to your homework.
+
+8
+00:00:57,760 --> 00:01:01,400
+We have a virtual lab set up for each one of you.
+
+9
+00:01:02,560 --> 00:01:10,100
+it has a Redis server running and comes with code samples and sample data for your learning pleasure.
+
+10
+00:01:11,140 --> 00:01:17,540
+And yes, that is an IDE running in a web browser with console access to the Redis Server.
+
+11
+00:01:19,120 --> 00:01:24,620
+Sign up for our free online courses, coming to a web browser to you this summer
+
