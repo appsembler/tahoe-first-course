@@ -24,12 +24,13 @@
         }, 
         "display_name": "Appsembler Sample Course", 
         "display_organization": "Appsembler", 
+        "enrollment_start": "2020-07-01T00:00:00Z", 
         "instructor_info": {
             "instructors": []
         }, 
         "language": "en", 
         "learning_info": [], 
-        "start": "2020-04-01T00:00:00Z", 
+        "start": "2020-07-01T00:00:00Z", 
         "tabs": [
             {
                 "course_staff_only": false, 

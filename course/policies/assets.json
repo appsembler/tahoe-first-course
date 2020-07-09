@@ -167,30 +167,6 @@
             null
         ]
     }, 
-    "Screen_Shot_2020-03-04_at_4.05.49_PM.png": {
-        "contentType": "image/png", 
-        "content_son": {
-            "category": "asset", 
-            "course": "APP101", 
-            "name": "Screen_Shot_2020-03-04_at_4.05.49_PM.png", 
-            "org": "hire-tanya-storm", 
-            "revision": null, 
-            "run": "Perpetual", 
-            "tag": "c4x"
-        }, 
-        "displayname": "Screen Shot 2020-03-04 at 4.05.49 PM.png", 
-        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@Screen_Shot_2020-03-04_at_4.05.49_PM.png", 
-        "import_path": null, 
-        "locked": false, 
-        "thumbnail_location": [
-            "c4x", 
-            "hire-tanya-storm", 
-            "APP101", 
-            "thumbnail", 
-            "Screen_Shot_2020-03-04_at_4.05.49_PM-png.jpg", 
-            null
-        ]
-    }, 
     "Screen_Shot_2020-03-05_at_3.00.48_PM.png": {
         "contentType": "image/png", 
         "content_son": {
