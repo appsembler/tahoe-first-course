@@ -503,6 +503,30 @@
             null
         ]
     }, 
+    "appsembler-intro-course-card.png": {
+        "contentType": "image/png", 
+        "content_son": {
+            "category": "asset", 
+            "course": "APP101", 
+            "name": "appsembler-intro-course-card.png", 
+            "org": "hire-tanya-storm", 
+            "revision": null, 
+            "run": "Perpetual", 
+            "tag": "c4x"
+        }, 
+        "displayname": "appsembler-intro-course-card.png", 
+        "filename": "asset-v1:hire-tanya-storm+APP101+Perpetual+type@asset+block@appsembler-intro-course-card.png", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "hire-tanya-storm", 
+            "APP101", 
+            "thumbnail", 
+            "appsembler-intro-course-card-png.jpg", 
+            null
+        ]
+    }, 
     "biconnector1.png": {
         "contentType": "image/png", 
         "content_son": {

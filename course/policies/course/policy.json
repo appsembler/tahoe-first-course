@@ -16,7 +16,7 @@
             "problem-builder"
         ], 
         "cert_html_view_enabled": true, 
-        "course_image": "appsembler-default-post-1.jpg", 
+        "course_image": "appsembler-intro-course-card.png", 
         "discussion_topics": {
             "General": {
                 "id": "course"
@@ -24,12 +24,13 @@
         }, 
         "display_name": "Appsembler Sample Course", 
         "display_organization": "Appsembler", 
-        "enrollment_start": "2020-07-01T00:00:00Z", 
+        "enrollment_start": null, 
         "instructor_info": {
             "instructors": []
         }, 
         "language": "en", 
         "learning_info": [], 
+        "self_paced": true, 
         "start": "2020-07-01T00:00:00Z", 
         "tabs": [
             {
