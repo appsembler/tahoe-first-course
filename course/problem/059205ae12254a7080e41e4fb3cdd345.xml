@@ -1,29 +1,29 @@
 <problem display_name="Appsembler Geography" markdown="On which four continents do Appsembler employees live?&#10;&gt;&gt;Check all that apply.&lt;&lt;&#10;&#10;[x] Asia {{selected: Yes to Asia!}}&#10;[ ] Australia {{selected: Nobody down under.}}&#10;[x] South America {{selected: Yes to South America!}}&#10;[x] Europe {{selected: Yes to Europe!}}&#10;[ ] Antarctica {{selected: Alas, we've not successfully recruited any penguins... yet.}}&#10;[ ] Africa {{selected: No one in Africa.}}&#10;[x] North America {{selected: Yes to North America!}}&#10;&#10;&#10;">
-<choiceresponse>
-  <p>On which four continents do Appsembler employees live?</p>
-<label>Check all that apply.</label>
-<checkboxgroup>
-    <choice correct="true">Asia
+  <choiceresponse>
+    <p>On which four continents do Appsembler employees live?</p>
+    <label>Check all that apply.</label>
+    <checkboxgroup>
+      <choice correct="true">Asia
       <choicehint selected="true">Yes to Asia!</choicehint>
 </choice>
-    <choice correct="false">Australia
+      <choice correct="false">Australia
       <choicehint selected="true">Nobody down under.</choicehint>
 </choice>
-    <choice correct="true">South America
+      <choice correct="true">South America
       <choicehint selected="true">Yes to South America!</choicehint>
 </choice>
-    <choice correct="true">Europe
+      <choice correct="true">Europe
       <choicehint selected="true">Yes to Europe!</choicehint>
 </choice>
-    <choice correct="false">Antarctica
+      <choice correct="false">Antarctica
       <choicehint selected="true">Alas, we've not successfully recruited any penguins... yet.</choicehint>
 </choice>
-    <choice correct="false">Africa
+      <choice correct="false">Africa
       <choicehint selected="true">No one in Africa.</choicehint>
 </choice>
-    <choice correct="true">North America
+      <choice correct="true">North America
       <choicehint selected="true">Yes to North America!</choicehint>
 </choice>
-  </checkboxgroup>
-</choiceresponse>
+    </checkboxgroup>
+  </choiceresponse>
 </problem>

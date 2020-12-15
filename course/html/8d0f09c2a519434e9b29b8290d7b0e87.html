@@ -1,0 +1,55 @@
+<p>
+<script src="/static/prism.js"></script>
+</p>
+<h3>Tasks for your Virtual Lab</h3>
+<p>Open the index.html file:</p>
+<h3>Step 1: Modify the HTML: Add some motivational content!</h3>
+<p>Any good todo app needs motivational content! Paste the code below into the <code>index.html</code> file; place it below the <code>&lt;div id="app"&gt;&lt;/div&gt;</code> tag. That section of the file should then look like this:</p>
+<pre><code class="language-html" lang="html">...
+&lt;body&gt;
+  &lt;div id="app"&gt;&lt;/div&gt;
+  &lt;blockquote id="motivation" class="motivation"&gt;
+      Here's to the crazy ones. The misfits. The rebels. The troublemakers.
+      The round pegs in the square holes. The ones who see things differently. They're not fond
+      of rules. And they have no respect for the status quo. You can quote them, disagree with
+      them, glorify or vilify them. About the only thing you can't do is ignore them. Because
+      they change things. They push the human race forward. And while some may see them as the
+      crazy ones, we see genius. Because the people who are crazy enough to think they can
+      change the world, are the ones who do.&rdquo; &ndash; Rob Siltanen
+  &lt;/blockquote&gt;
+  &lt;!-- CSS Styles are 100% optional. but they make it look *much* nicer --&gt;
+  &lt;link rel="stylesheet" href="lib/todomvc-common-base.css"&gt;
+  &lt;link rel="stylesheet" href="lib/todomvc-app.css"&gt;
+  ...
+</code></pre>
+<p>Then click "File" &gt; "Save All". If you've added motivational HTML snippet properly and saved properly, the page should look like this:</p>
+<p><img src="/static/Screen_Shot_2020-11-25_at_14.08.57.png" alt="display motivational content" width="576" height="736" /></p>
+<h3>Step 2: Modify the CSS: Style the motivational quote</h3>
+<p>We should change the style of that motivational quote, though. Open the <code>lib/todomvc-app.css</code> file and add the snippet below to the bottom of it.</p>
+<pre><code class="language-css" lang="css">blockquote.motivation {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+</code></pre>
+<p>Then click "File &gt; Save All". The app should look like this:</p>
+<p><img src="/static/Screen_Shot_2020-11-25_at_14.19.19.png" alt="style blockquote" width="676" height="734" /></p>
+<p>You will have noticed that it's a bit cumbersome to navigate between the <code>.html</code> and the <code>.css</code> files. Grab the tab of the <code>.css</code> file and drag it to a better position, then click "View" &gt; "Collapse All Side Panels":</p>
+<p><img src="/static/Screen_Recording_2020-11-25_at_14.25.57.gif" alt="configure the IDE panels" width="800" height="464" /></p>
+<h3>Step 3: Modify the JavaScript: Disable the motivational quote</h3>
+<p>It's good to have some motivation when starting a task list, but perhaps your user does not want that motivational quote hanging around. When the user clicks away, we should hide the motivational quote; do that by adding this snippet to your JavaScript file located at <code>lib/todo-app.js</code>:</p>
+<pre><code class="language-javascript" lang="javascript">/* hide the motivational quote when the user clicks away */
+window.onload = function(){
+  var divToHide = document.getElementById('motivation');
+  document.onclick = function(e){
+    if(e.target.id !== 'motivation'){
+      //element clicked wasn't the div; hide the div
+      divToHide.style.display = 'none';
+    }
+  };
+};
+</code></pre>
+<p>Then click "Save All". If you added the JavaScript snippet in the right spot, the motivational quote should be disappear when the user clicks to add a todo item:</p>
+<p><img src="/static/Screen_Recording_2020-11-25_at_14.52.54.gif" alt="disable motivational quote" width="800" height="631" /></p>
