@@ -1,21 +1,21 @@
 <problem display_name="Whodunnit?" markdown="&gt;&gt;Which of the following were responsible for building the first ever version of the edX platform? Click the '? Hint' button at bottom right for some fun advice. And if you choose wrong, we'll even give you feedback! (Try us...)&lt;&lt;&#10;&#10;( ) Yale and Harvard {{Two Liberal Arts schools? As if.}}&#10;(x) Harvard and MIT {{Those are the ones!}}&#10;( ) Berkley and CalTech {{Right idea... wrong coast.}}&#10;( ) Duke and UNC-Chapel Hill {{Nope. We're pretty sure Duke and Carolina would never voluntarily work together.}}&#10;&#10;||In my mind I am NOT going to Carolina.||&#10;||You can't surf there.||&#10;||People like to pahk in their yahd.||&#10;||None of the schools rhyme with Kale.||">
-  <multiplechoiceresponse>
-    <label>Which of the following were responsible for building the first ever version of the edX platform? Click the '? Hint' button at bottom right for some fun advice. And if you choose wrong, we'll even give you feedback! (Try us...)</label>
-    <choicegroup type="MultipleChoice">
-      <choice correct="false">Yale and Harvard <choicehint>Two Liberal Arts schools? As if.</choicehint>
+<multiplechoiceresponse>
+  <label>Which of the following were responsible for building the first ever version of the edX platform? Click the '? Hint' button at bottom right for some fun advice. And if you choose wrong, we'll even give you feedback! (Try us...)</label>
+<choicegroup type="MultipleChoice">
+    <choice correct="false">Yale and Harvard <choicehint>Two Liberal Arts schools? As if.</choicehint>
 </choice>
-      <choice correct="true">Harvard and MIT <choicehint>Those are the ones!</choicehint>
+    <choice correct="true">Harvard and MIT <choicehint>Those are the ones!</choicehint>
 </choice>
-      <choice correct="false">Berkley and CalTech <choicehint>Right idea... wrong coast.</choicehint>
+    <choice correct="false">Berkley and CalTech <choicehint>Right idea... wrong coast.</choicehint>
 </choice>
-      <choice correct="false">Duke and UNC-Chapel Hill <choicehint>Nope. We're pretty sure Duke and Carolina would never voluntarily work together.</choicehint>
+    <choice correct="false">Duke and UNC-Chapel Hill <choicehint>Nope. We're pretty sure Duke and Carolina would never voluntarily work together.</choicehint>
 </choice>
-    </choicegroup>
-  </multiplechoiceresponse>
-  <demandhint>
-    <hint>In my mind I am NOT going to Carolina.</hint>
-    <hint>You can't surf there.</hint>
-    <hint>People like to pahk in their yahd.</hint>
-    <hint>None of the schools rhyme with Kale.</hint>
-  </demandhint>
+  </choicegroup>
+</multiplechoiceresponse>
+<demandhint>
+  <hint>In my mind I am NOT going to Carolina.</hint>
+  <hint>You can't surf there.</hint>
+  <hint>People like to pahk in their yahd.</hint>
+  <hint>None of the schools rhyme with Kale.</hint>
+</demandhint>
 </problem>

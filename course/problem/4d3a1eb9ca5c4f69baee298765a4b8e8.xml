@@ -1,11 +1,11 @@
 <problem display_name="Where are the reports?" markdown="&gt;&gt;Which part of Tahoe provides reports and analytics to help you better understand your learners?&lt;&lt;&#10;[[&#10;Studio&#10;The LMS&#10;(Figures)&#10;The Management Console&#10;]]&#10;">
-  <optionresponse>
-    <label>Which part of Tahoe provides reports and analytics to help you better understand your learners?</label>
-    <optioninput>
-      <option correct="False">Studio</option>
-      <option correct="False">The LMS</option>
-      <option correct="True">Figures</option>
-      <option correct="False">The Management Console</option>
-    </optioninput>
-  </optionresponse>
+<optionresponse>
+  <label>Which part of Tahoe provides reports and analytics to help you better understand your learners?</label>
+<optioninput>
+    <option correct="False">Studio</option>
+    <option correct="False">The LMS</option>
+    <option correct="True">Figures</option>
+    <option correct="False">The Management Console</option>
+  </optioninput>
+</optionresponse>
 </problem>
