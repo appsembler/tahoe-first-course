@@ -1,7 +1,6 @@
-<vertical display_name="Launch your own Virtual Lab">
-  <html url_name="acd0ad91850748b2a3ccbff64b8ae92b"/>
-  <launchcontainer url_name="c4d515d4842a4377931ed3619adc1355" xblock-family="xblock.v1" enable_container_resetting="true" project_token="a35351e7d0344b2dafb0578073e087b9" project_friendly="Theia Virtual" project="js-tutorial:v1.7.5"/>
-  <html url_name="8d0f09c2a519434e9b29b8290d7b0e87"/>
-  <html url_name="49856de288b64d27afb09ce5454be516"/>
-  <html url_name="1c99fbd4e94f4f8da260481846b2c27e"/>
+<vertical display_name="How does it work?">
+  <html url_name="db9b7286da40411da60856b3ed783911"/>
+  <video url_name="adadb48ca44543dab8577c6e14cf5d87"/>
+  <html url_name="2db2404608314c8d8b9e156f14b462d5"/>
+  <html url_name="edca7e18e03b4ec9a8c01d3a61ef56c4"/>
 </vertical>

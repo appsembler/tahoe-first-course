@@ -1,6 +1,6 @@
 <vertical display_name="Open Response Assessments (ORA)">
   <html url_name="36d30091a9c4403a97512d81d09bd69e"/>
-  <openassessment url_name="e43e8dbb612f45949f763509fecc5fc1" submission_start="2001-01-01T00:00:00" submission_due="2029-01-01T00:00:00" leaderboard_show="1" text_response="required" file_upload_response="optional" file_upload_type="pdf-and-image" allow_latex="False" prompts_type="html">
+  <openassessment url_name="e43e8dbb612f45949f763509fecc5fc1" submission_start="2001-01-01T00:00:00+00:00" submission_due="2029-01-01T00:00:00+00:00" leaderboard_show="1" text_response="required" file_upload_response="optional" file_upload_type="pdf-and-image" allow_latex="False" prompts_type="html">
     <title>Open Response Assessment</title>
     <assessments>
       <assessment name="staff-assessment" required="True"/>
