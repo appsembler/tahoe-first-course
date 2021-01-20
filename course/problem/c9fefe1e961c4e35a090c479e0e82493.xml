@@ -1,19 +1,19 @@
 <problem display_name="Virtual Labs must-have?" markdown="&gt;&gt;What must a learner have to experience hands-on training in Virtual Labs?&lt;&lt;&#10;&#10;[ ] A gaming/dev 'power' machine {{selected: Gaming machines are welcome, but not at all required.}}&#10;[ ] 20GB of available hard drive space {{selected: No, we let you keep your hard drive space.}}&#10;[ ] Your software installed on their machine {{selected: Oh the headaches of installing local software - no need with Virtual labs!}}&#10;[x] A web browser {{selected: Yep, a web browser is all you need. Ah, the simplicity.}}&#10;">
-<choiceresponse>
-  <label>What must a learner have to experience hands-on training in Virtual Labs?</label>
-<checkboxgroup>
-    <choice correct="false">A gaming/dev 'power' machine
+  <choiceresponse>
+    <label>What must a learner have to experience hands-on training in Virtual Labs?</label>
+    <checkboxgroup>
+      <choice correct="false">A gaming/dev 'power' machine
       <choicehint selected="true">Gaming machines are welcome, but not at all required.</choicehint>
 </choice>
-    <choice correct="false">20GB of available hard drive space
+      <choice correct="false">20GB of available hard drive space
       <choicehint selected="true">No, we let you keep your hard drive space.</choicehint>
 </choice>
-    <choice correct="false">Your software installed on their machine
+      <choice correct="false">Your software installed on their machine
       <choicehint selected="true">Oh the headaches of installing local software - no need with Virtual labs!</choicehint>
 </choice>
-    <choice correct="true">A web browser
+      <choice correct="true">A web browser
       <choicehint selected="true">Yep, a web browser is all you need. Ah, the simplicity.</choicehint>
 </choice>
-  </checkboxgroup>
-</choiceresponse>
+    </checkboxgroup>
+  </choiceresponse>
 </problem>

@@ -1,25 +1,25 @@
 <problem display_name="What's in a Plan?" markdown="&gt;&gt;Which three Tahoe features are ONLY available to our Premium plan customers? &lt;&lt;&#10;&#10;[x] Deep insights via the Business Intelligence Connector {{selected: Yes, the BI Connector is a Premium feature.}}&#10;[ ] Single Sign On {{selected: No, SSO is also part of the Pro plan.}}&#10;[x] API endpoints {{selected: Yes, API endpoints are a Premium feature.}}&#10;[x] A staging (sandbox) site {{selected: Yes, only Premium plan customers get a sandbox testing site.}}&#10;[ ] Course Access Groups {{selected: No, Course Access Groups is also part of the Pro plan.}}&#10;[ ] Virtual Labs {{selected: No, you can add Virtual Labs to any Tahoe plan, or even run it standalone!}}&#10;">
-<choiceresponse>
-  <label>Which three Tahoe features are ONLY available to our Premium plan customers? </label>
-<checkboxgroup>
-    <choice correct="true">Deep insights via the Business Intelligence Connector
+  <choiceresponse>
+    <label>Which three Tahoe features are ONLY available to our Premium plan customers? </label>
+    <checkboxgroup>
+      <choice correct="true">Deep insights via the Business Intelligence Connector
       <choicehint selected="true">Yes, the BI Connector is a Premium feature.</choicehint>
 </choice>
-    <choice correct="false">Single Sign On
+      <choice correct="false">Single Sign On
       <choicehint selected="true">No, SSO is also part of the Pro plan.</choicehint>
 </choice>
-    <choice correct="true">API endpoints
+      <choice correct="true">API endpoints
       <choicehint selected="true">Yes, API endpoints are a Premium feature.</choicehint>
 </choice>
-    <choice correct="true">A staging (sandbox) site
+      <choice correct="true">A staging (sandbox) site
       <choicehint selected="true">Yes, only Premium plan customers get a sandbox testing site.</choicehint>
 </choice>
-    <choice correct="false">Course Access Groups
+      <choice correct="false">Course Access Groups
       <choicehint selected="true">No, Course Access Groups is also part of the Pro plan.</choicehint>
 </choice>
-    <choice correct="false">Virtual Labs
+      <choice correct="false">Virtual Labs
       <choicehint selected="true">No, you can add Virtual Labs to any Tahoe plan, or even run it standalone!</choicehint>
 </choice>
-  </checkboxgroup>
-</choiceresponse>
+    </checkboxgroup>
+  </choiceresponse>
 </problem>
